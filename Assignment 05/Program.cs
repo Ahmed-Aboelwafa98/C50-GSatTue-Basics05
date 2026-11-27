@@ -31,6 +31,14 @@ namespace Assignment_05
             //Book book = new Book();
             //Book.gener = Genre.Science;
             #endregion
+            #region Q05
+            //Using the Genre enum above, print the underlying int value of
+            //Genre.Fiction, Genre.NonFiction, and Genre.Science by casting each to int.
+            //Console.WriteLine((int)Genre.Fiction);//0
+            //Console.WriteLine((int)Genre.NonFiction);//1
+            //Console.WriteLine((int)Genre.Science);//2
+
+            #endregion
         }
     }
 }
