@@ -1,4 +1,5 @@
 ﻿using System.Drawing;
+using static Assignment_05.Book;
 
 namespace Assignment_05
 {
@@ -23,6 +24,12 @@ namespace Assignment_05
             //Book book = new Book();
             //book.Title="Ahmed";
             //Console.WriteLine(book.Title);
+            #endregion
+            #region Q04
+            //Declare an enum Genre { Fiction, NonFiction, Science }. Add a Genre property to Book,
+            //assign it Genre.Science, and print it.
+            //Book book = new Book();
+            //Book.gener = Genre.Science;
             #endregion
         }
     }
