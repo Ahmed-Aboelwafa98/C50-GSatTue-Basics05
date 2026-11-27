@@ -18,6 +18,12 @@ namespace Assignment_05
             //Console.WriteLine(book.copiesInStock);//it print 5 the compiler can see becouse it is internal 
 
             #endregion
+            #region Q03
+            //Add a public string Title; field to Book. Set it and print it from Main.
+            //Book book = new Book();
+            //book.Title="Ahmed";
+            //Console.WriteLine(book.Title);
+            #endregion
         }
     }
 }
