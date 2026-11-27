@@ -39,6 +39,12 @@ namespace Assignment_05
             //Console.WriteLine((int)Genre.Science);//2
 
             #endregion
+            #region Q06
+            //Given int genreNumber = 1;, cast it into a Genre value and print the result.
+            //int genreNumber = 1;
+            //Genre g= (Genre)genreNumber;
+            //Console.WriteLine(g);
+            #endregion
         }
     }
 }
